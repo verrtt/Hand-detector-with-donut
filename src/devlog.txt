@@ -1,0 +1,19 @@
+3/19/26
+    - opened vs code, worked on project organization and decided on libraries
+3/20/26
+    - venv
+        - python doesn't run at school. Set up camera input -> window display
+        - came home and installed libraries/reinstalled venv; apparently I didn't even have the right version of python installed on my pc. You need python on your pc in order to run a venv with python on it.
+        - Completely missed my volunteer event because I was so exhausted from the day, but it's alright.
+    - Asked technology about running python on school computers, directed us to Dr. Jing, still waiting on final results.
+        - If approved, allows for about an extra 1-2 hours of work per day
+3/21/2026
+    - debugging
+        - I debugged for the entire afternoon and felt really dumb when the code suddenly started working out of nowhere. I was fixing the image reading function, and eventually fixed my own errors to make sure that the pack function wouldn't affect the function call.
+        - Also moved the declarations under the function
+    - Tkinter windows/mp
+        - I worked on the cv2 to tkinter display windows and got it working. I still haven't been able to fully finish the hand detection part, mainly with the issue of the running mode when trying to update the live video feed. I found a post regarding the topic but it is 9pm and I am far too tired to continue working on the project for today. Goodnight!
+3/22/2026
+    - woke up late, and had no plans so I just weeded my front yard and ended the day there. Picked up a habit tracker though.
+4/12/2026
+    - finally done

@@ -17,7 +17,7 @@ from mediapipe.tasks import python
 from mediapipe.tasks.python import vision
 
 #hand landmarks - google colab hand landmarker
-model_path = r"D:\usbD backup\detectCube\src\hand_landmarker.task" #WARNING: this file is local, and won't work on your device. instead, go to the official downloader for hand landmarker, and scroll down past the demonstration to find the .task file.
+model_path = r"PATH\src\hand_landmarker.task" #WARNING: this file is local, and won't work on your device. instead, go to the official downloader for hand landmarker, and scroll down past the demonstration to find the .task file.
 
 
 #create handlandmarker objects - SETUP
